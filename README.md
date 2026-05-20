@@ -175,5 +175,3 @@ Deployed using:
 # 👩‍💻 Developed By
 
 Ankita ❤️
-
-This project is licensed under the MIT License.
