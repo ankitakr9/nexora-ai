@@ -92,7 +92,7 @@ GROQ_API_KEY=your_groq_api_key
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/nexora-ai.git
+git clone https://github.com/ankitakr9/nexora-ai.git
 ```
 
 ---
