@@ -161,7 +161,7 @@ Deployed using:
 
 # Future Improvements
 
-- User Authentication
+- User Authentication & Authorization
 - AI Image Generation
 - Voice Assistant
 - File Upload Support
